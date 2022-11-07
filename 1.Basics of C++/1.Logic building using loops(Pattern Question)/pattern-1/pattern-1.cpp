@@ -9,7 +9,7 @@ int main()
     {
         int j=1;
         while(j<=n){
-            cout<<"* ";
+            cout<<i<<" ";
             j++;
         }
         i++;
